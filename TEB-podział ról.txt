@@ -1,0 +1,11 @@
+Wstêpna, pogl¹dowa kolejnoœæ, która nie musi byæ zachowana.
+1)	Monika Kujawa – nadzór nad projektem, wstêpna analiza funkcjonalna w celu ustalenia kto i w jaki sposób bêdzie korzystaæ z projektu i co jest w nim wymagane.
+2)	Arkadiusz Murawski, Kamil Witkowski – przypadki u¿ycia – diagram, przedstawiaj¹cy funkcjonalnoœæ systemu wraz z jego otoczeniem i analiza ich z³o¿onoœci oraz trudnoœci. 
+3)	Robert Borkowski – diagram czynnoœci/aktywnoœci dla wybranych przypadków u¿ycia - zamodelowanie czynnoœci i zakresu odpowiedzialnoœci elementów b¹dŸ u¿ytkowników systemu.
+4)	Emilia Borowska – diagram sekwencji dla wybranych przypadków u¿ycia, prezentuj¹cy interakcje pomiêdzy obiektami wraz z uwzglêdnieniem w czasie komunikatów, jakie s¹ przesy³ane pomiêdzy nimi.
+Agata Hammermeister – diagram komunikacji dla wybranych przypadków u¿ycia, przedstawiaj¹cy sposób wymiany informacji pomiêdzy obiektami (aktorami, klasami), które wchodz¹ ze sob¹ w interakcjê.
+Ernest Jêdrzejczyk – diagram maszyny stanowej dla wybranych przypadków u¿ycia, pokazuj¹cy mo¿liwe stany obiektu, od stanu pocz¹tkowego do stanu koñcowego oraz przejœcia, które powoduj¹ zmianê tego stanu.
+5)	Kamil Reszka, Dawid Kalinowski – diagram klas w celu zamodelowania czêœci systemu oraz sposobów, w jaki one ze sob¹ wspó³dzia³aj¹ i model relacyjny baz danych.
+6)	Interfejs dla u¿ytkowników systemu, aby apka by³a wygodna i przyjemna w korzystaniu.
+
+Termin: 4.06.2018r.
