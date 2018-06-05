@@ -1,0 +1,17 @@
+(A) Tytu³ + wstêp
+
+I. Analiza funkcjonalna - dziedzina problemowa do poprawienia
+
+II. Przypadki u¿ycia - rozwiniêcie prowadzenia rejestru + opis dzia³ania
+
+III. Diagramy aktywnoœci - tytu³ + opis zrobionych diagramów
+
+IV. Diagramy sekwencji - tytu³ + opis zrobionych diagramów
+
+V. Diagramy komunikacji - tytu³ + opis zrobionych diagramów
+
+VI. Diagramy maszyny stanowej - tytu³ + opis zrobionych diagramów
+
+VII. Diagram klas - opis/komentarz
+
+VIII. Relacyjna baza danych - opis/komentarz
